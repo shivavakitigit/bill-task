@@ -2,7 +2,7 @@
 
 ### Clone the project.
 
-```git clone http://github.com/VenkateshMogili/bill-task.git```
+```git clone https://github.com/shivavakitigit/bill-task.git```
 
 ### Database setup:
 import db dump file located in backend/db/task_db.sql
